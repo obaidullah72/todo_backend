@@ -21,7 +21,6 @@ A simple RESTful API built with **Node.js**, **Express**, and **MongoDB (Mongoos
    ```bash
    git clone https://github.com/yourusername/task-api.git
    cd task-api
-````
 
 2. **Install dependencies:**
 
